@@ -1,5 +1,3 @@
----
-
 # 🧬 U-Net Medis — Nuclei Segmentation (MoNuSeg 2018)
 
 Repositori ini berisi pipeline lengkap untuk *semantic segmentation* inti sel (nuclei) menggunakan dua arsitektur:
