@@ -1,5 +1,3 @@
-Berikut **versi README yang rapi, profesional, dan siap dipakai** untuk repository GitHub kamu. Formatnya dibuat jelas, modular, dan mudah dibaca.
-
 ---
 
 # 🧬 U-Net Medis — Nuclei Segmentation (MoNuSeg 2018)
