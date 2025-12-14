@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+env/
+.venv/
+
+# Dataset
+Data/
+data/
+
+# Model checkpoints
+checkpoints/
+*.pth
+*.pth.tar
+
+# Outputs
+results/
+visualizations/
+
+# IDE
+.vs/
+.vscode/
+
+# User specific
+*.user
